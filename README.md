@@ -16,3 +16,8 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Engenharia de requisitos
+
+A engenharia de requisitos é o processo onde é mostrado e apresentado passo a passo na produção de um programa. Um dos tipos de requisitos 
+
